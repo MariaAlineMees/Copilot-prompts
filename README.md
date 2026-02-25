@@ -76,3 +76,9 @@ Funciona como um **tutor particular de Java**.
 * **Study** → Entendimento ativo e sabedoria
 
 > *"Tudo o que temos de decidir é o que fazer com o código que nos é dado."*
+
+### 👩🏻‍💻 Projeto desenvolvido durante o Bootcamp da DIO! 💙 
+
+| Nome              | GitHub                                            |
+| :---------------- | :------------------------------------------------ |
+| Maria Aline Mees  | [MariaAlineMees](https://github.com/MariaAlineMees) |
